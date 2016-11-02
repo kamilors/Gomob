@@ -15,3 +15,8 @@ Google Admob Module (IOS) for Godot Engine 2.1-stable
 		gomob.init("your admob Id")
 		gomob.set_test(false)
 		gomob.show()
+
+
+<p align="center">
+  <img src="calculon_ios_ss.png" width="250"/>
+</p>
